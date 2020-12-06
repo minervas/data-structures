@@ -1,0 +1,1 @@
+for c++ use `g++ ./binaryTree/firstSimpleTree.cpp && ./a.out`
