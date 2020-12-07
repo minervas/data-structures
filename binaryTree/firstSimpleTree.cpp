@@ -1,3 +1,5 @@
+// use `g++ ./binaryTree/firstSimpleTree.cpp && ./a.out` to run
+
 #include "node.h"
 #include <iostream>
 
